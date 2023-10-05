@@ -38,3 +38,4 @@ def solution(board):
                 if answer == 10001:
                     return -1
                 return answer
+                
